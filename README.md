@@ -1,3 +1,6 @@
+This protocol has been moved [here](https://github.com/ENIGMA-git/ENIGMA-DTI-TBSS-Protocol/tree/master/vector_QC)
+
+
 # Preprocessing Quality Control
 #### Protocol for FA and vector alignment QC analysis for ENIGMA-DTI 
 The following steps will allow you to visualize your raw FA images before registration to the ENIGMA-DTI template, and to see if your principle direction vectors are appropriately aligned to the white matter tracts.
